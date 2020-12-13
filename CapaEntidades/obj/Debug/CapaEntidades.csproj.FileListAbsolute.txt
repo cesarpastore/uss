@@ -1,0 +1,27 @@
+C:\Users\JorgePC\Desktop\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\JorgePC\Desktop\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\JorgePC\Desktop\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\JorgePC\Desktop\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Infotel & LastSoft\Descargas\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Infotel & LastSoft\Descargas\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Infotel & LastSoft\Descargas\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\Infotel & LastSoft\Descargas\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Infotel & LastSoft\Descargas\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Infotel & LastSoft\Descargas\Curso-ASP.NET-2016-master\ProyectoWeb\CapaPresentacion\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\USS\IX CICLO\SEMINARIO AVANZO I\Sistema_Reserva_Maricula_UNACH\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+D:\USS\IX CICLO\SEMINARIO AVANZO I\Sistema_Reserva_Maricula_UNACH\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\USS\IX CICLO\SEMINARIO AVANZO I\Sistema_Reserva_Maricula_UNACH\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\USS\IX CICLO\SEMINARIO AVANZO I\Sistema_Reserva_Maricula_UNACH\CapaEntidades\obj\Debug\CapaEntidades.pdb
+D:\USS\IX CICLO\SEMINARIO AVANZO I\Sistema_Reserva_Maricula_UNACH\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\USS\IX CICLO\SEMINARIO AVANZO I\Sistema_Reserva_Maricula_UNACH\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\sebaz\Downloads\Sistema_Reserva_Maricula_UNACH\Sistema_Reserva_Maricula_UNACH\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\sebaz\Downloads\Sistema_Reserva_Maricula_UNACH\Sistema_Reserva_Maricula_UNACH\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\sebaz\Downloads\Sistema_Reserva_Maricula_UNACH\Sistema_Reserva_Maricula_UNACH\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\sebaz\Downloads\Sistema_Reserva_Maricula_UNACH\Sistema_Reserva_Maricula_UNACH\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\sebaz\Downloads\Sistema_Reserva_Maricula_UNACH\Sistema_Reserva_Maricula_UNACH\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\sebaz\Desktop\PC_3\Sistema_Reserva_Maricula_ISTPELA\Sistema_Reserva_Maricula_ISTPELA\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\sebaz\Desktop\PC_3\Sistema_Reserva_Maricula_ISTPELA\Sistema_Reserva_Maricula_ISTPELA\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\sebaz\Desktop\PC_3\Sistema_Reserva_Maricula_ISTPELA\Sistema_Reserva_Maricula_ISTPELA\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\sebaz\Desktop\PC_3\Sistema_Reserva_Maricula_ISTPELA\Sistema_Reserva_Maricula_ISTPELA\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\sebaz\Desktop\PC_3\Sistema_Reserva_Maricula_ISTPELA\Sistema_Reserva_Maricula_ISTPELA\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\sebaz\Desktop\PC_3\Sistema_Reserva_Maricula_ISTPELA\Sistema_Reserva_Maricula_ISTPELA\CapaEntidades\obj\Debug\CapaEntidades.pdb
